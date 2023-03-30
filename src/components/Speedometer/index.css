@@ -1,0 +1,39 @@
+.main-div {
+  text-align: center;
+  background-color: #07080c;
+  height: 100vh;
+  padding: 15px;
+}
+
+h1 {
+  color: #ffffff;
+  font-family: Roboto;
+}
+
+h2 {
+  color: #cbd5e1;
+}
+p {
+  color: #94a3b8;
+}
+.button-div {
+  padding: 10px;
+}
+.acc-button {
+  background-color: #0b69ff;
+  color: #ffffff;
+  border-radius: 5px;
+  margin-right: 10px;
+  padding: 15px;
+}
+.brk-button {
+  background-color: transparent;
+  color: #94a3b8;
+  border-radius: 5px;
+  border: 2px solid #94a3b8;
+  padding: 15px;
+}
+
+.img-deco {
+  height: 300px;
+}
